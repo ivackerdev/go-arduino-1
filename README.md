@@ -46,5 +46,8 @@ Este es un proyecto abierto a contribuciones. Se invita a los usuarios a colabor
 Este proyecto se distribuye bajo la licencia MIT, que permite su uso, copia, modificación, distribución, y venta tanto en proyectos privados como comerciales.
 
 Este README combina información sobre dos componentes clave del proyecto: el módulo ESP8266 que ejecuta un servidor web y gestiona archivos en SPIFFS, y el servidor backend en Go que sirve un píxel de seguimiento. Ambos componentes trabajan juntos para facilitar la gestión de archivos, la conexión a internet y el seguimiento de peticiones HTTP en proyectos de IoT.
+
+Screenshot:
 ![ss1](https://github.com/ivackerdev/go-arduino-1/assets/65930496/fb5b8a5d-4ae8-4d8d-8571-0b668afddd7e)
+
 ![ss2](https://github.com/ivackerdev/go-arduino-1/assets/65930496/78cd67ee-e293-4517-a019-5f9d55fa4f6e)
